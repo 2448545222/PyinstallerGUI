@@ -1,5 +1,5 @@
-# PyinstallerGUI
-封装了Pyinstaller的命令行, 图形化界面更便于新手操作, 还不用记命令
+# 软件界面预览
+![Y 2W}Z)MEGX$Y4G4BYJ8KSG](https://user-images.githubusercontent.com/93512218/173412073-e25db429-3df9-4800-92c2-b7f236525443.png)
 
 # 使用须知
 要打包的py文件, 以下简称为 "main.py"
